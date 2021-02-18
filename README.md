@@ -1,5 +1,7 @@
 # Multilingual Acoustic Word Embeddings
 
+brief intro
+
 ## papers and codes
 
 #### Multilingual Jointly Trained Acoustic and Written Word Embeddings, Interspeech 2020

@@ -2,13 +2,13 @@
 
 ## papers and codes
 
-### Multilingual Jointly Trained Acoustic and Written Word Embeddings, Interspeech 2020
+#### Multilingual Jointly Trained Acoustic and Written Word Embeddings, Interspeech 2020
 
 summary
 
 codes
 
-### Acoustic Span Embeddings for Multilingual Query-by-example Search, SLT 2021
+#### Acoustic Span Embeddings for Multilingual Query-by-example Search, SLT 2021
 
 summary
 
@@ -16,7 +16,7 @@ codes of acoustic span embeddings
 
 codes of QbE search
 
-### Joint Training of Whole-Word Embedding and Recognition Models
+#### Joint Training of Whole-Word Embedding and Recognition Models
 
 summary
 
@@ -24,14 +24,14 @@ codes
 
 ## Visualization
 
-### AWE and AGWE
+#### AWE and AGWE
 
-### ASE
+#### ASE
 
 ## Data
 
 models in github page
 
-### Download embeddings
+#### Download embeddings
 
-### data-preprocessing
+#### data-preprocessing

@@ -21,13 +21,15 @@ Abstract: Query-by-example (QbE) speech search is the task of matching spoken qu
 
 ## Visualization
 
-#### AWE and AGWE
+#### Acoustic Word Embeddings and Acoustically Grounded Word Embeddings for 12 languages
 
-#### ASE
+[tensorflow projector visualization](http://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Yushi-Hu/Multilingual-AWE/master/emb-examples/awe-agwe-config.json)
+
+#### Acoustic Span Embeddings
 
 ## Data
 
-models in github page
+Trained models are in the code links for each paper
 
 #### Download embeddings
 
